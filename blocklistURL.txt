@@ -1009,9 +1009,9 @@ https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribabl
 https://raw.githubusercontent.com/XionKzn/PiHole-Lists/master/Cerber_Ransomware.txt				
 https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/ParsedBlacklists/Ransomware-Domain-Blocklist.tx				
 https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/ParsedBlacklistsTeslaCrypt-Ransomware-C2-Domain-Blocklist.txt				
-https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/ParsedBlacklistsTeslaCrypt-Ransomware-Payment-Sites-Domain-Blocklist.txt				
-https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/ParsedBlacklistsTorrentLocker-Ransomware-C2-Domain-Blocklist.txt				
-https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/ParsedBlacklistsTorrentLocker-Ransomware-Payment-Sites-Domain-Blocklist.txt				
+https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/ParsedBlacklistsTeslaCrypt-Ransomware-Payment-Sites-Domain-Blocklist.txt
+https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/ParsedBlacklistsTorrentLocker-Ransomware-C2-Domain-Blocklist.txt
+https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/ParsedBlacklistsTorrentLocker-Ransomware-Payment-Sites-Domain-Blocklist.txt
 https://gitlab.com/Kurobeats/phishing_hosts/raw/master/hosts				
 https://raw.githubusercontent.com/MetaMask/eth-phishing-detect/master/src/hosts.txt				
 https://raw.githubusercontent.com/dieechtenilente/hostlist/main/domains.txt				
@@ -1118,5 +1118,7 @@ https://blocklist.sefinek.net/generated/0.0.0.0/sites/riotgames.txt
 https://blocklist.sefinek.net/generated/0.0.0.0/social/snapchat.txt				
 https://blocklist.sefinek.net/generated/0.0.0.0/social/tiktok.txt				
 https://blocklist.sefinek.net/generated/0.0.0.0/useless-websites.txt				
-https://github.com/MerkeX/piHole-blocklist/commit/51d82ea12718b1231fedf688b2bb36ccb2ba7e9a					https://raw.githubusercontent.com/r0xd4n3t/pihole-adblock-lists/main/pihole_adlists.txt				
-https://raw.githubusercontent.com/elliotwutingfeng/GlobalAntiScamOrg-blocklist/main/global-anti-scam-org-scam-urls-pihole.txt		https://raw.githubusercontent.com/aleksandarristic/blacklist/main/lists/scam_hosts_srb.txt
+https://github.com/MerkeX/piHole-blocklist/commit/51d82ea12718b1231fedf688b2bb36ccb2ba7e9a
+https://raw.githubusercontent.com/r0xd4n3t/pihole-adblock-lists/main/pihole_adlists.txt				
+https://raw.githubusercontent.com/elliotwutingfeng/GlobalAntiScamOrg-blocklist/main/global-anti-scam-org-scam-urls-pihole.txt
+https://raw.githubusercontent.com/aleksandarristic/blacklist/main/lists/scam_hosts_srb.txt

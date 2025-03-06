@@ -972,10 +972,13 @@ https://blocklistproject.github.io/Lists/tiktok.txt
 https://blocklistproject.github.io/Lists/scam.txt
 https://blocklistproject.github.io/Lists/tracking.txt
 <<<<<<< HEAD
+<<<<<<< HEAD
 https://blocklist.sefinek.net/generated/v1/0.0.0.0/test.txt
 https://blocklist.sefinek.net/generated/v1/0.0.0.0/ads/0Zinc/easylist.fork.txt
 https://blocklist.sefinek.net/generated/v1/0.0.0.0/ads/adaway/hosts.fork.txt
 =======
+=======
+>>>>>>> 2c275eecb2376ea54c68aa5279e38211e0aaa2d6
 https://raw.githubusercontent.com/tomasko126/easylistczechandslovak/master/filters.txt				
 https://raw.githubusercontent.com/DRSDavidSoft/additional-hosts/master/domains/blacklist/adservers-and-trackers.txt				
 https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-malware.txt				
@@ -1131,6 +1134,9 @@ https://blocklist.sefinek.net/generated/v1/0.0.0.0/test.txt
 https://blocklist.sefinek.net/generated/v1/0.0.0.0/ads/0Zinc/easylist.fork.txt
 https://blocklist.sefinek.net/generated/v1/0.0.0.0/ads/adaway/hosts.fork.txt
 https://blocklist.sefinek.net/generated/v1/0.0.0.0/ads/anudeepND/adservers.fork.txt
+<<<<<<< HEAD
+>>>>>>> 2c275eecb2376ea54c68aa5279e38211e0aaa2d6
+=======
 >>>>>>> 2c275eecb2376ea54c68aa5279e38211e0aaa2d6
 https://blocklist.sefinek.net/generated/v1/0.0.0.0/ads/blocklistproject/hosts.fork.txt
 https://blocklist.sefinek.net/generated/v1/0.0.0.0/ads/blocklistproject/youtube.fork.txt
@@ -1144,6 +1150,11 @@ https://blocklist.sefinek.net/generated/v1/0.0.0.0/ads/firebog/Admiral.fork.txt
 https://blocklist.sefinek.net/generated/v1/0.0.0.0/ads/firebog/Easylist.fork.txt
 https://blocklist.sefinek.net/generated/v1/0.0.0.0/ads/firebog/Prigent-Ads.fork.txt
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+https://blocklist.sefinek.net/generated/v1/0.0.0.0/ads/jerryn70/GoodbyeAds.fork.txt
+https://blocklist.sefinek.net/generated/v1/0.0.0.0/ads/kboghdady/youtubelist.fork.txt
+>>>>>>> 2c275eecb2376ea54c68aa5279e38211e0aaa2d6
 =======
 https://blocklist.sefinek.net/generated/v1/0.0.0.0/ads/jerryn70/GoodbyeAds.fork.txt
 https://blocklist.sefinek.net/generated/v1/0.0.0.0/ads/kboghdady/youtubelist.fork.txt
@@ -1155,6 +1166,10 @@ https://blocklist.sefinek.net/generated/v1/0.0.0.0/ads/ShadowWhisperer/Ads.fork.
 https://blocklist.sefinek.net/generated/v1/0.0.0.0/ads/yoyo/ads-trackers-etc.fork.txt
 https://blocklist.sefinek.net/generated/v1/0.0.0.0/tracking-and-telemetry/0Zinc/easyprivacy.fork.txt
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+https://blocklist.sefinek.net/generated/v1/0.0.0.0/tracking-and-telemetry/ente-dev/tv.fork.txt
+>>>>>>> 2c275eecb2376ea54c68aa5279e38211e0aaa2d6
 =======
 https://blocklist.sefinek.net/generated/v1/0.0.0.0/tracking-and-telemetry/ente-dev/tv.fork.txt
 >>>>>>> 2c275eecb2376ea54c68aa5279e38211e0aaa2d6
@@ -1164,8 +1179,13 @@ https://blocklist.sefinek.net/generated/v1/0.0.0.0/tracking-and-telemetry/mitche
 https://blocklist.sefinek.net/generated/v1/0.0.0.0/tracking-and-telemetry/neodevpro/host.fork.txt
 https://blocklist.sefinek.net/generated/v1/0.0.0.0/tracking-and-telemetry/quidsup/trackers-hosts.fork.txt
 <<<<<<< HEAD
+<<<<<<< HEAD
 https://blocklist.sefinek.net/generated/v1/0.0.0.0/tracking-and-telemetry/sefinek.hosts.txt
 https://blocklist.sefinek.net/generated/v1/0.0.0.0/amp/developerdan/amp-hosts-extended.fork.txt
+=======
+https://blocklist.sefinek.net/generated/v1/0.0.0.0/amp/developerdan/amp-hosts-extended.fork.txt
+https://blocklist.sefinek.net/generated/v1/0.0.0.0/amp/ente-dev/google-amp-hosts.fork.txt
+>>>>>>> 2c275eecb2376ea54c68aa5279e38211e0aaa2d6
 =======
 https://blocklist.sefinek.net/generated/v1/0.0.0.0/amp/developerdan/amp-hosts-extended.fork.txt
 https://blocklist.sefinek.net/generated/v1/0.0.0.0/amp/ente-dev/google-amp-hosts.fork.txt
@@ -1195,6 +1215,10 @@ https://blocklist.sefinek.net/generated/v1/0.0.0.0/crypto/cryptojacking/firebog/
 https://blocklist.sefinek.net/generated/v1/0.0.0.0/crypto/cryptojacking/hoshsadiq/adblock-nocoin-list.fork.txt
 https://blocklist.sefinek.net/generated/v1/0.0.0.0/crypto/cryptojacking/Snota418/Crypto-streams.fork.txt
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+https://blocklist.sefinek.net/generated/v1/0.0.0.0/crypto/cryptojacking/zerodot1/CoinBlockerLists-hosts.fork.txt
+>>>>>>> 2c275eecb2376ea54c68aa5279e38211e0aaa2d6
 =======
 https://blocklist.sefinek.net/generated/v1/0.0.0.0/crypto/cryptojacking/zerodot1/CoinBlockerLists-hosts.fork.txt
 >>>>>>> 2c275eecb2376ea54c68aa5279e38211e0aaa2d6
@@ -1205,6 +1229,7 @@ https://blocklist.sefinek.net/generated/v1/0.0.0.0/spam/RPiList/spam-mails.fork.
 https://blocklist.sefinek.net/generated/v1/0.0.0.0/spam/stopforumspam/toxic-domains-whole.fork.txt
 https://blocklist.sefinek.net/generated/v1/0.0.0.0/spam/FadeMind/add-Spam.fork.txt
 https://blocklist.sefinek.net/generated/v1/0.0.0.0/piracy/blocklistproject/piracy.fork.txt
+<<<<<<< HEAD
 <<<<<<< HEAD
 https://blocklist.sefinek.net/generated/v1/0.0.0.0/piracy/sefinek.hosts.txt
 https://blocklist.sefinek.net/generated/v1/0.0.0.0/redirect/blocklistproject/redirect.fork.txt
@@ -1218,17 +1243,23 @@ https://blocklist.sefinek.net/generated/v1/0.0.0.0/suspicious/firebog/w3kbl.fork
 https://blocklist.sefinek.net/generated/v1/0.0.0.0/suspicious/sefinek.hosts.txt
 https://blocklist.sefinek.net/generated/v1/0.0.0.0/porn/StevenBlack/porn.fork.txt
 =======
+=======
+>>>>>>> 2c275eecb2376ea54c68aa5279e38211e0aaa2d6
 https://blocklist.sefinek.net/generated/v1/0.0.0.0/redirect/blocklistproject/redirect.fork.txt
 https://blocklist.sefinek.net/generated/v1/0.0.0.0/scam/Dogino/Discord-Phishing-URLs-scam.fork.txt
 https://blocklist.sefinek.net/generated/v1/0.0.0.0/scam/durablenapkin/scamblocklist.fork.txt
 https://blocklist.sefinek.net/generated/v1/0.0.0.0/scam/blocklistproject/scam.fork.txt
 https://blocklist.sefinek.net/generated/v1/0.0.0.0/suspicious/firebog/w3kbl.fork.txt
 https://blocklist.sefinek.net/generated/v1/0.0.0.0/suspicious/FadeMind/add-Risk.fork.txt
+<<<<<<< HEAD
+>>>>>>> 2c275eecb2376ea54c68aa5279e38211e0aaa2d6
+=======
 >>>>>>> 2c275eecb2376ea54c68aa5279e38211e0aaa2d6
 https://blocklist.sefinek.net/generated/v1/0.0.0.0/porn/blocklistproject/porn.fork.txt
 https://blocklist.sefinek.net/generated/v1/0.0.0.0/porn/chadmayfield/pi-blocklist-porn-all.fork.txt
 https://blocklist.sefinek.net/generated/v1/0.0.0.0/porn/oisd/nsfw.fork.txt
 https://blocklist.sefinek.net/generated/v1/0.0.0.0/porn/sefinek.hosts.txt
+<<<<<<< HEAD
 <<<<<<< HEAD
 https://blocklist.sefinek.net/generated/v1/0.0.0.0/porn/sefinek.hosts2.txt
 https://blocklist.sefinek.net/generated/v1/0.0.0.0/porn/Sinfonietta/pornography-hosts.fork.txt
@@ -1252,6 +1283,8 @@ https://blocklist.sefinek.net/generated/v1/0.0.0.0/useless-websites/sefinek.host
 https://blocklist.sefinek.net/generated/v1/0.0.0.0/sites/lgbtqplus.txt
 https://blocklist.sefinek.net/generated/v1/0.0.0.0/sites/lgbtqplus2.txt
 =======
+=======
+>>>>>>> 2c275eecb2376ea54c68aa5279e38211e0aaa2d6
 https://blocklist.sefinek.net/generated/v1/0.0.0.0/porn/Sinfonietta/pornography-hosts.fork.txt
 https://blocklist.sefinek.net/generated/v1/0.0.0.0/porn/4skinSkywalker/hosts.fork.txt
 https://blocklist.sefinek.net/generated/v1/0.0.0.0/hate-and-junk/developerdan/extended.fork.txt
@@ -1263,12 +1296,16 @@ https://blocklist.sefinek.net/generated/v1/0.0.0.0/gambling/blocklistproject/hos
 https://blocklist.sefinek.net/generated/v1/0.0.0.0/dating-services/developerdan/extended.fork.txt
 https://blocklist.sefinek.net/generated/v1/0.0.0.0/useless-websites.txt
 https://blocklist.sefinek.net/generated/v1/0.0.0.0/extensions/cbuijs/adult-domains-24733.fork.txt
+<<<<<<< HEAD
+>>>>>>> 2c275eecb2376ea54c68aa5279e38211e0aaa2d6
+=======
 >>>>>>> 2c275eecb2376ea54c68aa5279e38211e0aaa2d6
 https://blocklist.sefinek.net/generated/v1/0.0.0.0/extensions/deathbybandaid/CountryCodesLists-France.fork.txt
 https://blocklist.sefinek.net/generated/v1/0.0.0.0/extensions/deathbybandaid/ParsedBlacklists-EasyList-Liste-FR.fork.txt
 https://blocklist.sefinek.net/generated/v1/0.0.0.0/extensions/deathbybandaid/ParsedBlacklists-EasyList.fork.txt
 https://blocklist.sefinek.net/generated/v1/0.0.0.0/extensions/FadeMind/add-2o7Net.fork.txt
 https://blocklist.sefinek.net/generated/v1/0.0.0.0/extensions/hagezi/pro.fork.txt
+<<<<<<< HEAD
 <<<<<<< HEAD
 https://blocklist.sefinek.net/generated/v1/0.0.0.0/extensions/MajkiIT/adguard-host.fork.txt
 https://blocklist.sefinek.net/generated/v1/0.0.0.0/extensions/MajkiIT/easy-privacy-host.fork.txt
@@ -1284,6 +1321,8 @@ https://blocklist.sefinek.net/generated/v1/0.0.0.0/sites/pixiv.txt
 https://blocklist.sefinek.net/generated/v1/0.0.0.0/sites/patreon.txt
 https://blocklist.sefinek.net/generated/v1/0.0.0.0/sites/esport.txt
 =======
+=======
+>>>>>>> 2c275eecb2376ea54c68aa5279e38211e0aaa2d6
 https://blocklist.sefinek.net/generated/v1/0.0.0.0/extensions/justdomains/adguarddns-justdomains.fork.txt
 https://blocklist.sefinek.net/generated/v1/0.0.0.0/extensions/MajkiIT/adguard-host.fork.txt
 https://blocklist.sefinek.net/generated/v1/0.0.0.0/extensions/MajkiIT/easy-privacy-host.fork.txt
@@ -1298,13 +1337,22 @@ https://blocklist.sefinek.net/generated/v1/0.0.0.0/other/polish-blocklists/cert.
 https://blocklist.sefinek.net/generated/v1/0.0.0.0/sites/omegle.txt
 https://blocklist.sefinek.net/generated/v1/0.0.0.0/sites/gamebanana.txt
 https://blocklist.sefinek.net/generated/v1/0.0.0.0/sites/patreon.txt
+<<<<<<< HEAD
+>>>>>>> 2c275eecb2376ea54c68aa5279e38211e0aaa2d6
+=======
 >>>>>>> 2c275eecb2376ea54c68aa5279e38211e0aaa2d6
 https://blocklist.sefinek.net/generated/v1/0.0.0.0/social/tiktok.txt
 https://blocklist.sefinek.net/generated/v1/0.0.0.0/social/snapchat.txt
 https://blocklist.sefinek.net/generated/v1/0.0.0.0/sites/riotgames.txt
 https://blocklist.sefinek.net/generated/v1/0.0.0.0/games/league-of-legends.txt
 <<<<<<< HEAD
+<<<<<<< HEAD
 https://blocklist.sefinek.net/generated/v1/0.0.0.0/games/valorant.txt
+=======
+https://blocklist.sefinek.net/generated/v1/0.0.0.0/games/valorant.txt
+https://blocklist.sefinek.net/generated/v1/0.0.0.0/anime/myanimelist.net.txt
+https://blocklist.sefinek.net/generated/v1/0.0.0.0/anime/shinden.pl.txt
+>>>>>>> 2c275eecb2376ea54c68aa5279e38211e0aaa2d6
 =======
 https://blocklist.sefinek.net/generated/v1/0.0.0.0/games/valorant.txt
 https://blocklist.sefinek.net/generated/v1/0.0.0.0/anime/myanimelist.net.txt
